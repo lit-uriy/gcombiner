@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="256" viewBox="0 0 768 256">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 25px;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #252525;
+      }
+
+      .cls-2 {
+        fill: #546264;
+      }
+
+      .cls-3 {
+        fill: #7d7d7b;
+      }
+    </style>
+  </defs>
+  <text id="G-code_Combiner" data-name="G-code Combiner" class="cls-1" transform="translate(383.114 143.323) scale(2.099)"><tspan x="0">G-code<tspan class="cls-2"> Combiner</tspan></tspan></text>
+  <text id="by_rara64" data-name="by rara64" class="cls-3" x="561" y="167"><tspan x="561">by rara64</tspan></text>
+</svg>
