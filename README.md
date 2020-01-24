@@ -22,3 +22,8 @@ Yes, you can. But doing this with G-code Combiner will consume less time and wil
 **Version 1.0** - *It's the initial release of G-code Combiner so feel free to share your issues so I can fix them :)*
 
 **<a href="https://github.com/rara64/gcombiner/releases/download/v1.0/GCombiner-1.0-x64.exe">x64 Windows</a>** | **<a href="https://github.com/rara64/gcombiner/releases/download/v1.0/GCombiner-1.0-x86.exe">x86 Windows</a>**
+
+# VirusTotal
+**VirusTotal Scans for Version 1.0**
+
+**<a href="https://www.virustotal.com/gui/file/8e5d8687d98be87dd6d6fa3d4d7893a87858dedd87aec45fa5a459f3c537db74/detection">x64 Windows Scan</a>** | **<a href="https://www.virustotal.com/gui/file/b1f860c023fdbb66da269fa9d1cf63addc9a92232d8f2cb46291e946a41fff4c/detection">x86 Windows Scan</a>**
