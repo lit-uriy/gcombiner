@@ -1,6 +1,6 @@
 ![](images/mainlogo.svg)
 ## Simple software for combining layers from different G-code files into one G-code file that can be 3D printed.
-**NOTE:** *G-code Combiner is only compatible with G-code files generated with **Ultimaker Cura** (support for other slicers will be avaliable in the near future).*
+**NOTE:** *G-code Combiner is only compatible with G-code files generated with **Ultimaker Cura** (support for other slicers will be available in the near future).*
 
 ### What's the main idea behind this?
 This software was created to make retraction test towers using files from Ultimaker Cura.
