@@ -1,4 +1,4 @@
-![](mainlogo.svg)
+![](images/mainlogo.svg)
 ## Simple software for combining layers from different G-code files into one G-code file that can be 3D printed.
 **NOTE:** *G-code Combiner is only compatible with G-code files generated with **Ultimaker Cura** (support for other slicers will be avaliable in the near future).*
 
