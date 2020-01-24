@@ -1,26 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="256" viewBox="0 0 768 256">
   <defs>
     <style>
-      .cls-1, .cls-3 {
+      .cls-1, .cls-3, .cls-5 {
         font-size: 25px;
         text-anchor: middle;
         font-family: Montserrat;
         font-weight: 700;
       }
 
-      .cls-1 {
+      .cls-1, .cls-4 {
         fill: #252525;
       }
 
-      .cls-2 {
+      .cls-2, .cls-7 {
         fill: #546264;
       }
 
-      .cls-3 {
+      .cls-3, .cls-6 {
         fill: #7d7d7b;
+      }
+
+      .cls-4, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #7c91a2;
       }
     </style>
   </defs>
-  <text id="G-code_Combiner" data-name="G-code Combiner" class="cls-1" transform="translate(383.114 143.323) scale(2.099)"><tspan x="0">G-code<tspan class="cls-2"> Combiner</tspan></tspan></text>
-  <text id="by_rara64" data-name="by rara64" class="cls-3" x="561" y="167"><tspan x="561">by rara64</tspan></text>
+  <text id="G-code_Combiner" data-name="G-code Combiner" class="cls-1" transform="translate(503.114 143.323) scale(2.099)"><tspan x="0">G-code<tspan class="cls-2"> Combiner</tspan></tspan></text>
+  <text id="by_rara64" data-name="by rara64" class="cls-3" x="681" y="167"><tspan x="681">by rara64</tspan></text>
+  <path id="Wielokąt_2" data-name="Wielokąt 2" class="cls-4" d="M135.58,251.166L28.918,189.578,28.923,66.412,135.591,4.834,242.254,66.422l-0.006,123.166Z"/>
+  <text id="GC" class="cls-5" transform="translate(135.586 170.151) scale(4.705)"><tspan x="0">G<tspan class="cls-6">C</tspan></tspan></text>
+  <path id="Elipsa_1_kopia" data-name="Elipsa 1 kopia" class="cls-7" d="M187.421,118.22a9.78,9.78,0,1,1-9.78,9.78A9.78,9.78,0,0,1,187.421,118.22Z"/>
+  <path id="Elipsa_1_kopia_2" data-name="Elipsa 1 kopia 2" class="cls-7" d="M96.465,118.22a9.78,9.78,0,1,1-9.78,9.78A9.78,9.78,0,0,1,96.465,118.22Z"/>
 </svg>
