@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #252525;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 25px;
+        text-anchor: middle;
+        fill: #7c91a2;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #7d7d7b;
+      }
+
+      .cls-4 {
+        fill: #546264;
+      }
+    </style>
+  </defs>
+  <path id="Wielokąt_2" data-name="Wielokąt 2" class="cls-1" d="M255.988,507.868L37.87,381.924l0.012-251.868L256.012,4.132,474.13,130.076l-0.012,251.868Z"/>
+  <text id="GC" class="cls-2" transform="translate(255.999 342.196) scale(9.622)"><tspan x="0">G<tspan class="cls-3">C</tspan></tspan></text>
+  <circle id="Elipsa_1_kopia" data-name="Elipsa 1 kopia" class="cls-4" cx="362" cy="256" r="20"/>
+  <circle id="Elipsa_1_kopia_2" data-name="Elipsa 1 kopia 2" class="cls-4" cx="176" cy="256" r="20"/>
+</svg>
