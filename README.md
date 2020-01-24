@@ -21,4 +21,4 @@ Yes, you can. But doing this with G-code Combiner will consume less time and wil
 # Downloads
 **Version 1.0** - *It's the initial release of G-code Combiner so feel free to share your issues so I can fix them :)*
 
-**x64 Windows** | **x86 Windows**
+**<a href="https://github.com/rara64/gcombiner/releases/download/v1.0/GCombiner-1.0-x64.exe">x64 Windows</a>** | **<a href="https://github.com/rara64/gcombiner/releases/download/v1.0/GCombiner-1.0-x86.exe">x86 Windows</a>**
